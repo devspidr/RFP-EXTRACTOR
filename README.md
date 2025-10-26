@@ -191,7 +191,6 @@ Upload either:
 
 While checking with ZIP file outputs, you may notice that one of the extracted JSON outputs contains mostly `null` values.  
 I’m not sure why this happened, as the original output (when running the app on individual files) works correctly extracting correct json outputs.  
-Please consider this as a potential edge case.  
 If you’d like to verify the app’s functionality, feel free to **clone this repository and run it locally** — the extraction process works as expected on standard inputs.
 
 
