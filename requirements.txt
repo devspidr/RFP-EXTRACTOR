@@ -1,0 +1,37 @@
+# beautifulsoup4
+# PyPDF2
+# streamlit
+# python-dotenv
+# langchain_core
+# langchain_google_genai
+
+# requirements.txt for RFP Extractor Streamlit App
+
+# Core dependencies
+streamlit==1.38.0
+python-dotenv==1.0.1
+beautifulsoup4==4.12.3
+PyPDF2==3.0.1
+
+# LangChain & Google Gemini
+langchain==0.2.14
+langchain-core==0.2.37
+langchain-google-genai==1.0.7
+
+# Data handling
+pandas==2.2.2
+numpy==1.26.4
+
+# Machine Learning & Vector DB (for optional RAG)
+faiss-cpu==1.8.0
+
+# JSON validation and utility
+pydantic==2.8.2
+regex==2024.5.15
+
+# Optional OCR (for scanned PDFs)
+pytesseract==0.3.10
+pdf2image==1.17.0
+
+# System utilities
+requests==2.32.3
