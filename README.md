@@ -155,6 +155,40 @@ Upload either:
 
     outputs/<filename>_extracted.json
 
+    sample output:
+
+    {
+    "Bid Number": "168884",
+    "Title": "Student and Staff Computing Devices **SOURCING #168884**",
+    "Due Date": "2024-07-09",
+    "Bid Submission Type": "RFP - Request for Proposal (Informal)",
+    "Term of Bid": "five years",
+    "Pre Bid Meeting": "06/10/2024 03:00 PM EDT",
+    "Installation": "Null",
+    "Bid Bond Requirement": "Null",
+    "Delivery Date": "Null",
+    "Payment Terms": "Null",
+    "Any Additional Documentation Required": "Null",
+    "MFG for Registration": "Null",
+    "Contract or Cooperative to use": "No",
+    "Model_no": "Null",
+    "Part_no": "168884",
+    "Product": "Student and Staff Computing Devices",
+    "Contact Info": {
+        "raw": "Procurement Services\n972-925-3700\nProcurementCS@dallasisd.org",
+        "emails": [
+            "ProcurementCS@dallasisd.org"
+        ],
+        "phones": [
+            "972-925-3700"
+        ]
+    },
+    "Company Name": "Dallas Independent School District",
+    "Bid Summary": "Reference Number: 00004079100\nIssuing Organization: Dallas Independent School District\nSolicitation Type: RFP - Request for Proposal (Informal)\nSolicitation Number: JA-207652\nTitle: Student and Staff Computing Devices **SOURCING #168884**\nSource ID: SCRIBE\nLocation: Texas\nPurchase Type: Not Stated\nPiggyback Contract: No\nPublication Date: 05/29/2024 11:16 AM EDT\nClosing Date: 07/09/2024 03:00 PM EDT\nPrebid Conference: 06/10/2024 03:00 PM EDT\nQuestions Due By: 06/11/2024 05:00 PM EDT\nContact Information: Procurement Services, 972-925-3700, ProcurementCS@dallasisd.org\nDescription: This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors. Vendors participating in this Request for Proposal (RFP) may submit proposals for one, several, or all categories of devices required by the District. Within each category of device, the District reserves the right to award contracts to a single vendor or multiple vendors. The specifications listed in this RFP are the minimum hardware requirements for each tier of device required by Dallas ISD. Vendors responding to this RFP must have the ability to provide the District with significant quantities of devices as requested in the pricing lines in this RFP. Note that quantities requested by Dallas ISD are estimates to be ordered over the five years of the contracts resulting from this RFP. Purchases may also include a variety of device accessories which will be ordered in a bundle along with the devices. Such accessories include, but are not limited to, sleeves, cases, mice, keyboards, and cables that may not necessarily come with the devices. Each submission must include a d",
+    "Product Specification": "This Request for Proposal (RFP) will be for student and staff computing devices, including laptops, desktops, tablet devices, and display monitors. Vendors participating in this Request for Proposal (RFP) may submit proposals for one, several, or all categories of devices required by the District. Within each category of device, the District reserves the right to award contracts to a single vendor or multiple vendors. The specifications listed in this RFP are the minimum hardware requirements for each tier of device required by Dallas ISD. Vendors responding to this RFP must have the ability to provide the District with significant quantities of devices as requested in the pricing lines in this RFP. Note that quantities requested by Dallas ISD are estimates to be ordered over the five years of the contracts resulting from this RFP. Purchases may also include a variety of device accessories which will be ordered in a bundle along with the devices. Such accessories include, but are not limited to, sleeves, cases, mice, keyboards, and cables that may not necessarily come with the devices."
+}
+
+
 7️⃣ Download or Review
 
 You can view, copy, or download the structured JSON.
