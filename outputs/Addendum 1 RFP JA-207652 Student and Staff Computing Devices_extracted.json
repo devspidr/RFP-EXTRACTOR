@@ -1,5 +1,6 @@
 {
     "Bid Number": "JA-207652",
+<<<<<<< HEAD
     "Title": "ADDENDUM No. 1 RFP JA-207652 Student and Staff Computing Devices",
     "Due Date": "Null",
     "Bid Submission Type": "Proposal",
@@ -17,10 +18,35 @@
     "Product": "Student and Staff Computing Devices",
     "Contact Info": {
         "raw": "Company Name: [Missing]\nSubmitter\u2019s Name/Title: [Missing]\nAddress: [Missing]\nCity, State and Zip Code: [Missing]\nEmail Address: [Missing]\nTelephone No: [Missing]\nFax No: [Missing]\n800 # (if available): [Missing]",
+=======
+    "Title": "ADDENDUM No. 1  \nRFP JA-207652 Student and Staff Computing Devices",
+    "Due Date": "Null",
+    "Bid Submission Type": "RFP",
+    "Term of Bid": "Life of the contract",
+    "Pre Bid Meeting": "Null",
+    "Installation": "White glove services, which include asset decaling, asset reporting, etching, and delivery to varied locations are required. No laser etch on the stand-alone monitors or AIO computers, Dallas ISD will only require etching on Laptops. For Windows devices, autopilot is required. For Chromebooks, enrollment in Google Management is required. Any awarded vendor will need to coordinate a schedule of deliveries with the Dallas ISD ED TECH department. Both etching and asset tagging are required.",
+    "Bid Bond Requirement": "Null",
+    "Delivery Date": "2024-09-25",
+    "Payment Terms": "Null",
+    "Any Additional Documentation Required": "Supporting documentation can be included as part of the submission for those areas that are not sufficient in space; additional warranty information and pricing can be submitted as an attachment; additional non-warranty options can be submitted as an attachment; additional pricing can be included as additional pricing in the attachments section.",
+    "MFG for Registration": "Null",
+    "Contract or Cooperative to use": "Null",
+    "Model_no": "Null",
+    "Part_no": "Null",
+    "Product": "Student and Staff Computing Devices",
+    "Contact Info": {
+        "raw": "Company Name: Null\nAddress: Null\nCity, State and Zip Code: Null\nEmail Address: Null\nSubmitter\u2019s Name/Title: Null\nSubmitter\u2019s Signature: Null\nTelephone No.: Null\nFax No.: Null\n800 # (if available): Null\nDate: Null",
+>>>>>>> 3ec34d88598e15c35b87d1a2e26ed26936602aef
         "emails": [],
         "phones": []
     },
     "Company Name": "Null",
+<<<<<<< HEAD
     "Bid Summary": "RFP JA-207652 is for Student and Staff Computing Devices. The award is anticipated at the August board meeting, with deliveries starting in September 2024, primarily using bond-funded money. Key requirements include white glove services (asset decaling, asset reporting, etching on laptops, and delivery), OEM warranties (minimum one year for student Chromebooks and three years for student/staff Windows laptops), and device imaging (Autopilot for Windows, Google Management for Chromebooks). Both etching and asset tagging are required. The submission deadline will not be extended, and legal terms and conditions are not negotiable. Vendors are not required to keep inventory in stock.",
     "Product Specification": "For Display monitors (non-Touch), a USB 3.1 port is a minimum requirement, with USB 3.2 being permissible. For Laptops, etching is required. Student Chromebooks require a one-year warranty, while student and staff Windows laptops require a three-year warranty. All warranties must be made by the OEM. Hot swap stock is required only for warranty work that will be longer than 5 business days. For Windows devices, Autopilot is required. For Chromebooks, enrollment in Google Management is required, and a 65w charger is a minimum requirement. Laptop battery life will be based on the manufacturer's specifications. AIO Desktops require a webcam and do not require laser etching. All devices must incorporate white glove services, including asset decaling, asset reporting, etching (on laptops), and delivery to varied locations. Both etching and asset tagging are required for devices."
 }
+=======
+    "Bid Summary": "This document is Addendum No. 1 for RFP JA-207652, concerning student and staff computing devices for Dallas ISD. It provides answers to vendor questions regarding the RFP, covering topics such as USB port specifications, award timeline, delivery dates, funding sources, white glove services, warranty requirements, accidental damage protection, device specifications, submission deadlines, reference checks, desktop security, warranty coverage, device stocking, local location requirements, additional warranty options, hot swap stock, onsite project managers, reference location, quantities, Microsoft Volume License Agreement, webcam requirements for AIO desktops, bid minimum release amount, pricing table clarifications, warranty types, etching and asset tagging, Form 1295 submission, PDF solicitation responses, device imaging, deployment schedule, equipment quantities, laptop battery life, evaluation units, laptop chargers, and legal terms and conditions. The addendum clarifies that USB 3.1 is a minimum requirement, a higher USB specification is permissible, the RFP is anticipated to be awarded at the August board meeting, deliveries are expected to start in September 2024, bond-funded money will primarily be used, etching is only required on laptops, a one-year warranty is required for student Chromebooks and three years for student and staff Windows laptops, warranties should be made by OEM, accidental damage protection is not required, device specifications should be included in the response value field, the submission deadline will not be extended, references will be contacted within a week after the due date, desktops do not need to be secured, vendors are not required to keep inventory in stock, a local location is not required, additional non-warranty options can be submitted as an attachment, hot swap is only for warranty work exceeding 5 business days, a delivery schedule needs to be coordinated, references do not need to be solely from the Dallas/Fort Worth area, quantities will be spread over the life of the contract, Dallas ISD has a Volume License Agreement with Microsoft, AIO Desktops require a webcam, the \u201cBid Minimum Release Amount\u201d field can be disregarded, minimum pricing should be submitted for warranty and deployment services, the pricing table cannot be manipulated, all warranty options need to be official manufacturer warranties, etching and asset tagging are both required, Form 1295 should be submitted with the RFP response, a PDF version is not required if responding electronically, autopilot is required for Windows devices and enrollment in Google Management is required for Chromebooks, quantities will fluctuate, battery life is based on manufacturer's specifications, samples will only be required from awarded vendors when ready to purchase large quantities, 65w chargers are a minimum requirement for Chrome devices, and the District will request the removal of deviations/exceptions to the terms and conditions. Bidders are required to acknowledge and return/submit a copy of this addendum with their proposal.",
+    "Product Specification": "Display monitor: minimum USB 3.1, higher specification permissible.\nEtching required only on laptops.\nWarranty: minimum one-year for student Chromebooks, three years for student and staff Windows laptops, warranties to be made by OEM; additional options can be attached.\nAccidental Damage Protection: Not required for purchased devices.\nSpecs of device being proposed should be included in the 'response value' field.\nDesktops do not need to be secured.\nVendors are not required to keep inventory in stock.\nLocal location is not required.\nHot swap is only for when warranty work will be longer than 5 business days.\nWebcam required for AIO Desktops.\n'Bid Minimum Release Amount' is a system default field and can be disregarded.\nWarranty and deployment service line items: submit a minimum price and attach additional pricing if this differs between tiers or devices.\nWarranty options need to be official manufacturer warranties.\nEtching and asset tagging are both required.\nFor Windows devices, autopilot is required. For Chromebooks, enrollment in Google Management is required.\nBattery life will be based on the manufacturer's specifications.\n65w chargers are a minimum requirement for Chrome devices."
+}
+>>>>>>> 3ec34d88598e15c35b87d1a2e26ed26936602aef
